@@ -10,6 +10,10 @@ The project covers Exploratory Data Analysis (EDA), descriptive statistics, hypo
 
 The main objective of this project is to analyze medical insurance charges and study how demographic and lifestyle factors are associated with insurance costs.
 
+### Live Dashboard
+
+[Open Interactive Streamlit Dashboard](https://ameya-trivedi202618047ds602statistical-methods-guaqyedncrvwkwy.streamlit.app/)
+
 The project includes:
 
 - Exploratory Data Analysis (EDA)
